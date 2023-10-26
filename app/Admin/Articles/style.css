@@ -1,0 +1,12 @@
+.articles {
+  display: flex;
+  flex-direction: row;
+}
+
+.articles-sidebar {
+  flex: 3;
+}
+
+.articles-body{
+  flex: 10;
+}
